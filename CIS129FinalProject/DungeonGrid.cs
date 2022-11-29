@@ -38,11 +38,11 @@ namespace CIS129FinalProject
             string roomTwentyfour = "It stinks in here.";
             string roomTwentyfive = "There are a field of flowers of all different colors that adorn the walls, floor, and ceiling of this room.";
 
-            if(roomNumber == 0)
+            if (roomNumber == 0)
             {
                 return roomOne;
             }
-            else if(roomNumber == 1)
+            else if (roomNumber == 1)
             {
                 return roomTwo;
             }
@@ -176,7 +176,7 @@ namespace CIS129FinalProject
             Grid.Add(22);
             Grid.Add(23);
             Grid.Add(24);
-            Console.WriteLine(Grid.Count());
+
 
             while (Grid.Count > 0)
             {
@@ -188,5 +188,8 @@ namespace CIS129FinalProject
 
             return rooms;
         }
+
     }
+
+
 }

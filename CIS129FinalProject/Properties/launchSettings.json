@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\jonat\\Desktop\\C# Programing\\final-project-Routsaw\\CIS129FinalProject\\bin\\Debug\\net6.0\\CIS129FinalProject.exe"
+    }
+  }
+}
